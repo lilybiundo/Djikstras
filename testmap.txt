@@ -1,0 +1,13 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X......SSSSS.W.........................X
+X..a....SSS..W....b..XXXXXXXXXXXXXXXXX.X
+X............W..X....X               XfX
+XXXXXXXXXXXX.XXXX..XXX               X.X
+X...............XS...X               X.X   XXXXXXXXXXXXXXXXXXW
+X.................XX.X               X.X   X.....XWWWWWWWWWWWX
+X.......XXXXXXXXX....X               X.X   X..p...WWWWWWWWWWWX
+X.......X...X...X.XXXX               X.X   X.....XXXXXXWWWWWWX
+X.......X.e.X.d.X..c.X               X.X   X.....XXXXWWWWWWWWX
+X.......X...X...XXXXXXXXXXXXXXXXXXXXXX.XXXXXXXXXXXWWWWWWWWWWWX
+XXXXXXXXXXXXXX................W...................WWWWWWW..WWX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
